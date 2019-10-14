@@ -9,6 +9,6 @@ def turtles
 end
 
 def turtle_traits(turtles)
-  turtles[:traits]
+  turtles[0][:traits]
   
 end
