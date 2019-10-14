@@ -13,7 +13,7 @@ def turtle_traits(turtles)
 binding.pry
     turtles[:traits].map do |trait|
       trait
-      
+
     end
   end
 end
